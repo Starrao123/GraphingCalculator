@@ -3,3 +3,10 @@ In this project I built a graphing calculator that receives as input a string th
 
 Through this project, I learned how to use context-free grammar and parse tree to build a recursive descent parser. I also strengthened my understanding of object-oriented design concepts.
 
+
+<p align="center">
+  <img width="356" alt="Image of graph from calculator" src="https://github.com/Starrao123/GraphingCalculator/assets/52764450/ee3b120c-c091-4dd2-908f-8afefa01ddeb">
+</p>
+
+
+
